@@ -1,0 +1,14 @@
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\bin\Debug\net7.0\TRyPasre.exe
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\bin\Debug\net7.0\TRyPasre.deps.json
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\bin\Debug\net7.0\TRyPasre.runtimeconfig.json
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\bin\Debug\net7.0\TRyPasre.dll
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\bin\Debug\net7.0\TRyPasre.pdb
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.AssemblyInfoInputs.cache
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.AssemblyInfo.cs
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.csproj.CoreCompileInputs.cache
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.dll
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\refint\TRyPasre.dll
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.pdb
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\TRyPasre.genruntimeconfig.cache
+c:\Users\zion.falk\Programming\TRyPasre\TRyPasre\obj\Debug\net7.0\ref\TRyPasre.dll
